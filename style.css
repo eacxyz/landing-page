@@ -116,3 +116,29 @@ figcaption, figcaption a {
 	border-radius: 18px;
 	margin-bottom: 8px;
 }
+
+.container.quote {
+	background-color: #e5e7eb;
+}
+
+blockquote.quote {
+	display: flex;
+	align-items: center;
+	padding: 120px;
+	flex-flow: column;
+}
+
+q {
+	max-width: 770px;
+	font-size: 36px;
+	font-weight: 300;
+	font-style: italic;
+	color: #1f2937;
+}
+
+.quote p {
+	color: #1f2937;
+	font-size: 24px;
+	align-self: flex-end;
+	font-weight: 600;
+}
