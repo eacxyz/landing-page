@@ -142,3 +142,26 @@ q {
 	align-self: flex-end;
 	font-weight: 600;
 }
+
+.action {
+	background-color: #3882f6;
+	width: 1000px;
+	display: flex;
+	margin: 100px;
+	padding: 45px 60px;
+	border-radius: 12px;
+	justify-content: space-around;
+}
+
+.action button {
+	border: 2px solid #f9faf8;
+}
+
+.call h2 {
+	color: #f9faf8;
+	margin-bottom: 4px;
+}
+
+.call p {
+	color: #e5e7eb;
+}
