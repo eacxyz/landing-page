@@ -165,3 +165,12 @@ q {
 .call p {
 	color: #e5e7eb;
 }
+
+footer {
+	background: #1f2937;
+	color: #e5e7eb;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 80px;
+}
